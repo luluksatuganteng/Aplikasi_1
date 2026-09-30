@@ -1,0 +1,6 @@
+{
+  "name": "SIPENDA SLB - Supervisi & Penjaminan Mutu SLB Muhammadiyah Ponjong",
+  "description": "Sistem Informasi Penjaminan Mutu & Supervisi Akademik SLB Muhammadiyah Ponjong Gunungkidul - Perencanaan Modul KS.02.2026, Telaah RPP Lampiran 5, Observasi Kelas Lampiran 6, Evaluasi & Tindak Lanjut.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
